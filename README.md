@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- Quyendev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/quyendev.svg" width="1200" alt="quyendev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -62,7 +62,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quyendev-instagram" />
   </a>
   <a href="mailto:quyencutety@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quyendev-email" />
   </a>
 </div>
 
@@ -72,5 +72,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/quyendev-quotes.svg" width="846" height="150" alt="quyendev-lap-trinh-vien" />
 </a>
